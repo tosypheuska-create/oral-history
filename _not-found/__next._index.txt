@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[5957,[],""]
+3:I[1297,[],""]
+:HL["/oral-history/_next/static/css/c44572ad496ff287.css","style"]
+:HL["/oral-history/_next/static/css/0b6dccabdd67df92.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/oral-history/_next/static/css/c44572ad496ff287.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/oral-history/_next/static/css/0b6dccabdd67df92.css","precedence":"next"}]],["$","html",null,{"lang":"ru","className":"__variable_6bcbbc __variable_7435a1 bg-background","children":["$","body",null,{"className":"font-sans antialiased","children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Nz2fjQksxzOawM0iQfYnC"}
